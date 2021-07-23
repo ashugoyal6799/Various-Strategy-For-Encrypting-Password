@@ -31,7 +31,8 @@ npm install
 Step4: Run app.js file
 ```
 node app.js
-```**
+```
+
 ## New Approach:
 
 It is crucial to keep users' passwords secure to protect against cyber-attacks. The first step is storing passwords on a secure database server.
